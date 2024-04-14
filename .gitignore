@@ -1,0 +1,10 @@
+nnUNet_trained_models
+nnUNet\nnUNet_trained_models
+mid_result
+dist
+build
+result
+*.zip
+__pycache__
+*.pyc
+*.nii.gz
